@@ -1,0 +1,14 @@
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\bin\Debug\net6.0\LeetCode-0027-Remove-Element.exe
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\bin\Debug\net6.0\LeetCode-0027-Remove-Element.deps.json
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\bin\Debug\net6.0\LeetCode-0027-Remove-Element.runtimeconfig.json
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\bin\Debug\net6.0\LeetCode-0027-Remove-Element.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\bin\Debug\net6.0\LeetCode-0027-Remove-Element.pdb
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\LeetCode-0027-Remove-Element.GeneratedMSBuildEditorConfig.editorconfig
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\LeetCode-0027-Remove-Element.AssemblyInfoInputs.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\LeetCode-0027-Remove-Element.AssemblyInfo.cs
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\LeetCode-0027-Remove-Element.csproj.CoreCompileInputs.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\LeetCode-0027-Remove-Element.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\refint\LeetCode-0027-Remove-Element.dll
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\LeetCode-0027-Remove-Element.pdb
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\LeetCode-0027-Remove-Element.genruntimeconfig.cache
+J:\Files\Working\Repos\LeetCode\leetcode-0027-remove-element-csharp\LeetCode-0027-Remove-Element\LeetCode-0027-Remove-Element\obj\Debug\net6.0\ref\LeetCode-0027-Remove-Element.dll
